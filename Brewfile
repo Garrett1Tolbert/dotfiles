@@ -4,6 +4,7 @@ brew 'yarn'
 
 # Developer Applications 
 cask 'hyper'
+cask 'starship'
 cask 'visual-studio-code'
 cask 'postman'
 cask 'gitkraken'
