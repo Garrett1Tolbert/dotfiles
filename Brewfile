@@ -12,7 +12,6 @@ cask 'gitkraken'
 # Communication Applications
 cask 'discord'
 cask 'slack'
-cask 'microsoft-outlook'
 
 # Esstential Applications
 cask 'google-chrome'
