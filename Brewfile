@@ -6,6 +6,7 @@ brew 'yarn'
 cask 'hyper'
 cask 'visual-studio-code'
 cask 'postman'
+cask 'gitkraken'
 
 
 # Communication Applications
