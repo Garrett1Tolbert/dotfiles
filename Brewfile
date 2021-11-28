@@ -17,7 +17,6 @@ cask 'slack'
 # Esstential Applications
 cask 'google-chrome'
 cask 'spotify'
-cask 'karabiner-elements'
 
 
 # Productivity Applications
